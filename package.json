@@ -1,0 +1,27 @@
+{
+  "name": "dependable-list",
+  "version": "0.1.0",
+  "description": "Dependency resolver based on complex-list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrija-hers/dependable-list.git"
+  },
+  "dependencies": {
+    "complex-list": "latest"
+  },
+  "keywords": [
+    "dependencies",
+    "resolving",
+    "iterating"
+  ],
+  "author": "Andrija Petrovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrija-hers/dependable-list/issues"
+  },
+  "homepage": "https://github.com/andrija-hers/dependable-list"
+}
